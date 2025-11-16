@@ -1,7 +1,7 @@
 #!bin/bash
 
 if [ "$EUID" -ne 0 ]; then
-	echo "ERROR: Скрипт запущен без прав суперпользователя"
+	echo "ERROR: The script was launched without super user rights"
 
 else
 
