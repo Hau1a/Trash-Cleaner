@@ -1,0 +1,6 @@
+# Starting from the 4th line, indicate the paths of files and folders that you need to delete
+# Example: /home/user/Desktop/CringeFolder
+# Transitions to the next line are MANDATORY at the end of EVERY path
+/home/vm-1/Рабочий стол/CringeFile
+/home/vm-1/Рабочий стол/HUH
+/home/vm-1/Рабочий стол/CringeFolder
